@@ -3,7 +3,7 @@
     <title>esteban-saiz</title>
     <link href="https://esaiz.github.io/feed.xml" rel="self" />
     <link href="https://esaiz.github.io" />
-    <updated>2017-10-01T17:57:33+02:00</updated>
+    <updated>2017-10-01T18:33:01+02:00</updated>
     <author>
         <name>Esteban Saiz</name>
     </author>
@@ -16,8 +16,12 @@
         </author>
         <link href="https://esaiz.github.io/nordicjs.html"/>
         <id>https://esaiz.github.io/nordicjs.html</id>
+            <category term="javascript"/>
+            <category term="html5"/>
+            <category term="css3"/>
+            <category term="conferencias"/>
 
-        <updated>2017-10-01T16:10:36+02:00</updated>
+        <updated>2017-10-01T18:03:25+02:00</updated>
             <summary></summary>
         <content type="html">&amp;lt;p&amp;gt;A principios del mes de septiembre tuve la oportunidad de poder asistir a las conferencias de Nordic.js en Estocolmo. Para ello acud&amp;amp;iacute; al recinto de&amp;amp;nbsp;Nobelberget, situado en la parte este de la ciudad.&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;Muy buenas sensaciones en este reencuentro con la capital sueca y adem&amp;amp;aacute;s de disfrutar la propia ciudad, un evento con bastante nivel y charlas muy interesantes.&amp;lt;/p&amp;gt;
@@ -42,5 +46,6 @@
 &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Antes de finalizar la conferencia una serie de charlas t&amp;amp;eacute;cnicas&amp;lt;/strong&amp;gt; que me dejaron un buen sabor de boca: David Khourshid y como &amp;lt;strong&amp;gt;utilizar RxJS con animaciones&amp;lt;/strong&amp;gt;, Guillermo Rauch y &amp;lt;strong&amp;gt;el uso de TBA.js&amp;lt;/strong&amp;gt; o las mini charlas de Joel Arvidsson y Joakim Carlstein mostrando varios casos de uso de JavaScript.&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;Finalmente, la &amp;lt;em&amp;gt;keynote&amp;lt;/em&amp;gt; del fin de fiesta a cargo de Karolina Szczur.&amp;lt;/p&amp;gt;</content>
 
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://esaiz.github.io/media/posts/1/img_20170906_190704.jpg" />
     </entry>
 </feed>
